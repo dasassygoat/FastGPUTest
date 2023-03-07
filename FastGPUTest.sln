@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FastGPUTest", "FastGPUTest\FastGPUTest.vcxproj", "{9A253490-F341-49A5-9584-3454D48F7948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A253490-F341-49A5-9584-3454D48F7948}.Debug|x64.ActiveCfg = Debug|x64
+		{9A253490-F341-49A5-9584-3454D48F7948}.Debug|x64.Build.0 = Debug|x64
+		{9A253490-F341-49A5-9584-3454D48F7948}.Release|x64.ActiveCfg = Release|x64
+		{9A253490-F341-49A5-9584-3454D48F7948}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1ABAB67-11F6-45F2-9704-3928A1B6CA2A}
+	EndGlobalSection
+EndGlobal
